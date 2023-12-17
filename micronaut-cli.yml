@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [acme, app-name, config4k, control-panel, gcp-cloud-trace, gcp-secrets-manager, github-workflow-ci, github-workflow-google-cloud-run-graalvm, github-workflow-graal-docker-registry, graalvm, gradle, graphql, http-client, jackson-databind, jdbc-hikari, junit, junit-platform-suite-engine, kotlin, kotlin-application, kotlin-extension-functions, ksp, kubernetes-client, localstack, logback, management, micrometer, micrometer-annotation, micrometer-observation, micrometer-observation-http, micrometer-stackdriver, micronaut-aot, micronaut-build, micronaut-http-validation, microstream, microstream-cache, microstream-rest, mysql, netty-server, problem-json, readme, retry, security, security-annotations, security-jwt, security-oauth2, serialization-jackson, shade, testcontainers, validation]
